@@ -1,0 +1,30 @@
+[
+  {
+    "patientId": 1000001,    
+    "firstName": "Cadwell",    
+    "lastName": "Boorie",
+    "patientWeight" : "67.8",
+    "patientBloodPressure" : "80/120"
+  },
+  {
+  	"patientId": 1000002, 
+    "firstName": "Skip",
+    "lastName": "Tully",
+   	"patientWeight" : "75",
+    "patientBloodPressure" : "80/120"
+  },
+  {
+    "patientId": 1000006,
+    "firstName": "Monad",
+    "lastName": "Ahmed",
+    "patientWeight" : "82",
+    "patientBloodPressure" : "90/120"
+  },
+    {
+    "patientId": 1000033,
+     "firstName": "Test123",
+     "lastName": "Patient123",
+   	"patientWeight" : "55",
+    "patientBloodPressure" : "90/110"
+  }
+]
